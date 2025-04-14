@@ -1,0 +1,58 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fffceb;
+}
+.container {
+    margin-top: 30px;
+}
+.table th, .table td {
+    text-align: center;
+}
+.total-row {
+    font-weight: bold;
+}
+
+.card-item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.card-item label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.card-item input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.total-harga {
+    text-align: right;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#total-pemasukkan {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.mobile-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #fff;
+}
+
+.mobile-card label {
+    font-weight: 600;
+    display: block;
+    margin-top: 10px;
+}
+

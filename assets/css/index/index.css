@@ -1,3 +1,7 @@
+body {
+    font-family: var(--font-family);
+    background: var(--background-color);
+}
 /* ===========================================================
                         COLOR PALETTE
 ==============================================================*/
@@ -20,10 +24,9 @@
     --text-warning-size: 4rem;
 }
 
-body {
-    font-family: var(--font-family);
-    background: var(--background-color);
-}
+/* ===========================================================
+                        HERO SECTION
+==============================================================*/
 
 .hero-section {
     padding: 80px 0;
@@ -52,3 +55,7 @@ body {
     background-color: #e3a300;
     color: white;
 }
+/* ===========================================================
+                        SIDEBAR SECTION
+==============================================================*/
+

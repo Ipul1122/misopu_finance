@@ -28,7 +28,7 @@
         <div class="col-md-6 mb-4 mb-md-0" data-aos="fade-right" data-aos-duration="1000">
             <h1 class="display-4 fw-bold text-brown">Selamat Datang di Web <span class="text-warning">MISOPU FINANCE</span></h1>
             <p class="lead text-secondary mb-4">Hitung Pendapatan Anda 🍜<br>Buat dari manual menjadi lebih mudah</p>
-            <a href="roles/users/dashboard.php" class="btn btn-misopu me-3">Masuk</a>
+            <a href="dashboard.php" class="btn btn-misopu me-3">Masuk</a>
             <!-- <a href="roles/users/menu.php" class="btn btn-outline-secondary">Lihat Menu</a> -->
         </div>
         <!-- Gambar -->
